@@ -1,0 +1,6 @@
+.secret
+.DS_Store
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
